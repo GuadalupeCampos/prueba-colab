@@ -1,0 +1,19 @@
+body {
+  background-color: #fcd8fd;
+}
+
+img {
+  width: 250px;
+  margin: 20px auto;
+}
+h1 {
+  text-align: center;
+}
+
+.general {
+  text-align: center;
+}
+p {
+  width: 80%;
+  margin: 0 auto;
+}
