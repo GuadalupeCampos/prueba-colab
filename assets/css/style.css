@@ -6,14 +6,27 @@ img {
   width: 250px;
   margin: 20px auto;
 }
-h1 {
-  text-align: center;
-}
 
 .general {
   text-align: center;
 }
+
 p {
   width: 80%;
   margin: 0 auto;
+}
+
+.infancia {
+  font-size: 20px;
+  width: 1000px;
+  margin: 0 auto;
+  color: midnightblue;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  color: rgb(115, 115, 227);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
