@@ -1,7 +1,38 @@
+body {
+  background-color: #fcd8fd;
+}
+
+img {
+  width: 250px;
+  margin: 20px auto;
+}
+
+.general {
+  text-align: center;
+}
+
+p {
+  width: 80%;
+  margin: 0 auto;
+  text-decoration: none;
+  color: blueviolet;
+}
+
+.infancia {
+  font-size: 20px;
+  width: 1000px;
+  margin: 0 auto;
+  color: midnightblue;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
 h2 {
   color: blue;
 }
-p {
-  text-decoration: none;
-  color: blueviolet;
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  color: rgb(115, 115, 227);
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
